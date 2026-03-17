@@ -92,7 +92,7 @@ curl -X POST http://localhost:5000/api/auth/register \
     "firstName": "Monray",
     "lastName": "Bowles",
     "email": "monraybowles@gmail.com",
-    "password": "psw1234"
+    "password": "Psw1234"
   }'
 ```
 
@@ -101,8 +101,8 @@ curl -X POST http://localhost:5000/api/auth/register \
 curl -X POST http://localhost:5000/api/auth/login \
   -H "Content-Type: application/json" \
   -d '{
-    "email": "john@example.com",
-    "password": "Password123"
+    "email": "monraybowles@gmail.com",
+    "password": "Psw1234"
   }'
 ```
 
