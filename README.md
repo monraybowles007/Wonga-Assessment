@@ -89,10 +89,10 @@ npm run dev
 curl -X POST http://localhost:5000/api/auth/register \
   -H "Content-Type: application/json" \
   -d '{
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john@example.com",
-    "password": "Password123"
+    "firstName": "Monray",
+    "lastName": "Bowles",
+    "email": "monraybowles@gmail.com",
+    "password": "psw1234"
   }'
 ```
 
