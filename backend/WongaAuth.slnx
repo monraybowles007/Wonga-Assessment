@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WongaAuth.Api/WongaAuth.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WongaAuth.IntegrationTests/WongaAuth.IntegrationTests.csproj" />
+    <Project Path="tests/WongaAuth.UnitTests/WongaAuth.UnitTests.csproj" />
+  </Folder>
+</Solution>
